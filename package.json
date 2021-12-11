@@ -1,0 +1,29 @@
+{
+  "name": "home-works",
+  "version": "1.0.0",
+  "description": "node.js, node ",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniya-star-35/node-home-works.git"
+  },
+  "author": "Evgeniya Bayda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniya-star-35/node-home-works/issues"
+  },
+  "homepage": "https://github.com/Evgeniya-star-35/node-home-works#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0"
+  }
+}
